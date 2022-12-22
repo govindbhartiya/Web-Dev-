@@ -1,0 +1,15 @@
+body {
+    background-color:#14b042;
+}
+.main {
+    text-align:center;   
+}
+.ipl {
+    color:#1f0099;
+    font-size:50px;
+    font-weight:bold;
+}
+.tagline {
+    font-style:bold;
+    font-size:20px;
+}

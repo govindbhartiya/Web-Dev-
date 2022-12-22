@@ -1,0 +1,32 @@
+body{
+    background-image: url(../backgroundimage.jpg);
+    background-size: cover;
+}
+ 
+h2 {
+    color: red;
+    text-align: center;
+    border: 2px solid purple;
+    cursor: pointer;
+}
+
+p {
+    color: skyblue;
+    text-decoration: underline;
+    line-height: 50px;
+    font-size: 100%;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+li a{
+    color: aliceblue;
+}
